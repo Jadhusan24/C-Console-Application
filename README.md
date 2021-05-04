@@ -8,20 +8,17 @@
 //Date : July ‎12, ‎2019      <br/>
 //--------------------------------------------------------<br/>
 
-### Hotel-Transaction-CLI
+## Hotel-Transaction-CLI
 CLI system for Hotel Transaction
 
 ============================================================================================   <br/>
 
-### Travel-Booking-CLI-
+## Travel-Booking-CLI-
 CLI system for Travel Booking
-
-#### Created With:
   | `1. C`       |
   | `2. Python`        | 
   | `3. Python using oop`         |
-
-#### Install the Python requirements:
     pip install -r req.txt
 
-"# C-Basic" 
+## Resources
+   I have uploaded The resources i used to make this. C- Intermediate Guidelines
