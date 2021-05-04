@@ -1,6 +1,6 @@
 # Console Application
 
-     I just want to upload this because this was my first Console Application i wrote in C. Yes, I know its pure basic but i love my work..
+     This was my first Console Application i wrote in C. Yes, I know its pure basic but i love my work..
   
 //--------------------------------------------------------<br/>
 //Author : Jadhusan <br/>
@@ -16,12 +16,12 @@ CLI system for Hotel Transaction
 ### Travel-Booking-CLI-
 CLI system for Travel Booking
 
-### Created With:
+#### Created With:
   | `1. C`       |
   | `2. Python`        | 
   | `3. Python using oop`         |
 
-### Install the Python requirements:
+#### Install the Python requirements:
     pip install -r req.txt
 
 "# C-Basic" 
