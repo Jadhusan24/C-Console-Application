@@ -1,6 +1,6 @@
 # Console Application
 
-     This was my first Console Application i wrote in C. Yes, I know its pure basic but i love my work..
+     Few Code from my old stack..
   
 //--------------------------------------------------------<br/>
 //Author : Jadhusan <br/>
